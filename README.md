@@ -1,4 +1,4 @@
-# igti-cienciadados (Docker Spark/Scala)
+# igti-cienciadados (Docker Hadoop/Spark/Scala)
 
 # Instruções
 
